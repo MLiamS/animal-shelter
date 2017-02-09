@@ -4,10 +4,11 @@
   margin: 10px;
   padding: 10px;
   background-image: url("../img/grass.jpg");
+  width: 20%;
 }
 
 .column img {
-  width: 300px;
+  width: 100%;
   height: auto;
 }
 
