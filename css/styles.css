@@ -1,0 +1,28 @@
+.column {
+  float: left;
+  border: groove;
+  margin: 10px;
+  padding: 10px;
+  background-image: url("../img/grass.jpg");
+}
+
+.column img {
+  width: 300px;
+  height: auto;
+}
+
+.column h3 {
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: yellow;
+}
+.column p {
+  font-family: cursive;
+  font-size: 20px;
+  color: white;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+}
